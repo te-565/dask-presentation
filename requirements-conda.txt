@@ -1,0 +1,9 @@
+dask
+numpy
+pandas
+jupyter
+ipykernel
+graphviz
+pystan==2.19.1.1
+prophet
+dtale
